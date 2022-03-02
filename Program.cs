@@ -34,17 +34,35 @@ namespace PrimeNumber
 
         public void isPrime()
         {
-            for (int i = 2; i < number; i++)
+            if (number < 2)
             {
-                if (number % i == 0)
-                {
-                    prime = false;
-                    System.Console.WriteLine("Not Prime");
-                    break;
-                }
+                prime = false;
+                System.Console.WriteLine("Not Prime");
             }
-            if (prime == true)
-                System.Console.WriteLine("Prime");
+            else
+            {
+                for (int i = 2; i < number; i++)
+                {
+                    if (number % i == 0)
+                    {
+                        prime = false;
+                        System.Console.WriteLine("Not Prime");
+                        break;
+                    }
+                }
+                if (prime == true)
+                    System.Console.WriteLine("Prime");
+            }
         }
+
+        // public void closesetPrimeNumber()
+        // {
+        //     if (prime)
+        //         System.Console.WriteLine("The number is a Prime");
+        //     else
+        //     {
+        //         for (int i = number++; ; i++) { }
+        //     }
+        // }
     }
 }
