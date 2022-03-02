@@ -15,20 +15,36 @@ namespace PrimeNumber
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            PrimeNumber primeObj = new PrimeNumber();
+            primeObj.inputNumber();
+            primeObj.isPrime();
         }
     }
 
     class PrimeNumber
     {
         private int number;
+        private bool prime = true;
 
-        public inputNumber()
+        public void inputNumber()
         {
-            System.Console.WriteLine("Enter a number : ");
-            number = Int.parse(Console.ReadLine());
+            System.Console.Write("Enter a number : ");
+            number = int.Parse(Console.ReadLine());
         }
 
-        public isPrime() { }
+        public void isPrime()
+        {
+            for (int i = 2; i < number; i++)
+            {
+                if (number % i == 0)
+                {
+                    prime = false;
+                    System.Console.WriteLine("Not Prime");
+                    break;
+                }
+            }
+            if (prime == true)
+                System.Console.WriteLine("Prime");
+        }
     }
 }

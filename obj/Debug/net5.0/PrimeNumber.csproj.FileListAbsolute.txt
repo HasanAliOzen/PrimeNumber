@@ -1,0 +1,16 @@
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.AssemblyReference.cache
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\PrimeNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfoInputs.cache
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\PrimeNumber.AssemblyInfo.cs
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\bin\Debug\net5.0\PrimeNumber.exe
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\bin\Debug\net5.0\PrimeNumber.deps.json
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.json
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\bin\Debug\net5.0\PrimeNumber.runtimeconfig.dev.json
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\bin\Debug\net5.0\PrimeNumber.dll
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\bin\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\bin\Debug\net5.0\PrimeNumber.pdb
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\PrimeNumber.dll
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\ref\PrimeNumber.dll
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\PrimeNumber.pdb
+C:\Users\hasan\Desktop\Codes\C#\PrimeNumber\obj\Debug\net5.0\PrimeNumber.genruntimeconfig.cache
