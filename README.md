@@ -1,2 +1,0 @@
-# PrimeNumber
-REad me
